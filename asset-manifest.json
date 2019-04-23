@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.79d9c605.css",
   "main.css.map": "static/css/main.79d9c605.css.map",
-  "main.js": "static/js/main.9eb5637c.js",
-  "main.js.map": "static/js/main.9eb5637c.js.map",
+  "main.js": "static/js/main.1ec715bb.js",
+  "main.js.map": "static/js/main.1ec715bb.js.map",
   "static/media/3.jpg": "static/media/3.e2d1b51c.jpg",
   "static/media/4.jpg": "static/media/4.0cc6983c.jpg",
   "static/media/4659.jpg": "static/media/4659.1760fae8.jpg",
@@ -21,5 +21,5 @@
   "static/media/lora-latin-700.woff2": "static/media/lora-latin-700.8b3f2e49.woff2",
   "static/media/lora-latin-700italic.woff": "static/media/lora-latin-700italic.003abe8e.woff",
   "static/media/lora-latin-700italic.woff2": "static/media/lora-latin-700italic.b899bade.woff2",
-  "static/media/slorge1.svg": "static/media/slorge1.b61c96a5.svg"
+  "static/media/preloader.gif": "static/media/preloader.3e54c692.gif"
 }
